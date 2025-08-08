@@ -2,7 +2,7 @@
 
 **`Analista de RPA\ Analista de Dados`**
 
-👋 Olá! Sou Marco Antônio Gonçalves Lopes, um entusiasta da tecnologia de 24 anos, natural de Brasília.
+👋 Olá! Sou Marco Antônio Gonçalves Lopes, um entusiasta da tecnologia de 25 anos, natural de Brasília.
 
 💻 Com 3 anos de experiência profissional na área de tecnologia, já atuei em diversas frentes, incluindo Sistemas, Dados, RPA e Desenvolvimento. Essa trajetória me permitiu desenvolver uma visão ampla e habilidades diversificadas para resolver problemas e criar soluções inovadoras.
 
