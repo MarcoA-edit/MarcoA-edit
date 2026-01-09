@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Marco Antônio Lopes
 
-**`Analista de RPA\ Analista de Dados`**
+**`Data Analyst \ RPA Developer`**
 
 👋 Hello! I’m Marco Antônio Gonçalves Lopes, a 25-year-old technology enthusiast originally from Brasília, currently seeking job opportunities.
 
@@ -27,7 +27,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <img 
     align="left" 
